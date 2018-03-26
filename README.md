@@ -3,6 +3,8 @@
 遅延情報は、下記サイト様のものを利用させていただいています。
 [鉄道遅延情報のjson](https://rti-giken.jp/fhc/api/train_tetsudo/)
 
+GoogleAppsScriptで書かれているので、このスクリプトをコピーして、Googleドライブに新規作成したGoogleAppsScriptに貼り付けて利用してください。
+
 ### 利用方法
 trainsの配列に自分が利用する路線名を追加してください。
   ```js
